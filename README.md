@@ -53,11 +53,11 @@ I'm passionate about creating exceptional web experiences and fostering collabor
 
 ### Tech stack:
 <p align="center">
-  <img alt="csharp" src="https://img.shields.io/badge/c%23-%23512BD4?style=for-the-badge&logo=csharp&logoColor=white">
-  <img alt="dotnet" src="https://img.shields.io/badge/.NET-%23512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-  <img alt="javaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img alt="vuejs" src="https://img.shields.io/badge/VUEJS-black?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D&labelColor=black">
-  <img alt="reactjs" src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=black">
+  <img alt="csharp" src="https://img.shields.io/badge/c%23-%23512BD4?style=for-the-badge&logo=csharp&logoColor=%23512BD4&labelColor=black">
+  <img alt="dotnet" src="https://img.shields.io/badge/dotnet-%23512BD4?style=for-the-badge&logo=dotnet&logoColor=%23512BD4&labelColor=black">
+  <img alt="javaScript" src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=black">
+  <img alt="vuejs" src="https://img.shields.io/badge/vuejs-%234FC08D?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D&labelColor=black">
+  <img alt="react" src="https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=black">
   <img alt="git" src="https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=black">
   <img alt="gitlab" src="https://img.shields.io/badge/gitlab-%23FC6D26?style=for-the-badge&logo=gitlab&logoColor=black">
   <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
